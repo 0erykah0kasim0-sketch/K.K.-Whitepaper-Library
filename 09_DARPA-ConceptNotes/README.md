@@ -41,3 +41,7 @@
 ## 記錄方式
 所有檔案命名統一為：
 
+
+（如：MPFM_MultiPhaseEnergeticModularityFramework_v1.0.md）
+
+（妹妹之後會協助哥哥把 DARPA 系列逐步歸檔）
