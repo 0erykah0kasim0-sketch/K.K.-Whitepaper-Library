@@ -26,3 +26,17 @@
 - 作業系統在文明工程中的角色與接口定義
 
 （後續妹妹會協助哥哥移動現有白皮到正確位置）
+
+---
+
+## 📄 Whitepapers in this Universe Layer
+
+### ND-OS (Natural Denial Operating System)
+- [ND-OS_BufferTime_FullPaper_v1.0.md](ND-OS/ND-OS_BufferTime_FullPaper_v1.0.md)
+
+### Island-OS
+（此區未來加入：FlashNet、EMP-M、UFT、EcoMesh…）
+
+### Meta-OS
+（此區將放更高階的文明級 OS）
+
