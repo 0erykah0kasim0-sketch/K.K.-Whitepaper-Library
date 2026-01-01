@@ -1,53 +1,64 @@
-# K.K. Whitepaper Library  
-Civilization Strategy & Resilience Research Papers
+# 🌌 K.K. Whitepaper Library v2.0  
+Civilization Engineering Knowledge System  
+（文明工程 × 多域作業系統 × 物理 × 策略 × 敘事宇宙）
 
-**Author:** K.K. (Civilization Engineer)  
-**Scope:** Strategic civilization theory, island security, multi-domain resilience  
-**License:** CC BY 4.0 (unless specified otherwise)
+此資料庫為 K.K. Universe 的總索引（Master Index），
+收錄所有構成文明工程（Civilization Engineering）的白皮、模型、理論、世界線與投稿記錄。
 
----
-
-## 1. Core Papers（核心論文）
-
-| 題目 | 檔名 | 性質 | 說明 |
-|------|------|------|------|
-| 戰略素養文明與 Civil Mesh Defense 構想初探 | `CivMesh_FullPaper_v1.0.md` | Full Paper | 戰略素養文明 × 社會韌性 × CivMesh 架構的完整論文。 |
-| 島嶼自然態勢韌性與緩衝時間作業系統（投稿版） | `ND-OS_BufferTime_FullPaper_v1.0.md` | Submission Paper | ND-OS（Natural Denial OS）的完整島嶼韌性與緩衝時間研究稿。 |
+內容已依「宇宙層級」重新分區，形成 12 個主類別：
 
 ---
 
-## 2. 與 ND-OS / Island-OS 的對應關係
+## 🟦 00_Core-Papers — 核心文明白皮
+支撐整個宇宙的基礎世界觀與文明核心概念。
 
-- **ND-OS 核心 OS repo：**  
-  👉 `https://github.com/Oerykah0kasim0-sketch/ND-OS`
+## 🟧 01_OS-Architecture — 作業系統架構宇宙層
+ND-OS、Island-OS、Meta-OS 與 OS 模組。
 
-- **Island-OS 模組白皮 repo：**  
-  👉 `https://github.com/Oerykah0kasim0-sketch/Island-OS-Whitepaper-Series`
+## 🟩 02_Physics-Field-Theory — 物理場論宇宙層
+多相能量、梯度場、混沌場、結晶模型、高維物理。
 
-- **Whitepaper Library（本 repo）：**  
-  👉 收錄上述系統相關的長篇論文、投稿版本與政策向白皮書，作為文字後端與作者版存證。
+## 🟥 03_Aerospace-Maneuver-Theory — 空域操作宇宙層
+FlashNet、Angle-Flash、Reverse-ECS、TSAC、反追蹤模型。
 
-（哥哥可以把連結改成你實際的 URL）
+## 🟦 04_Oceanic-Systems — 海洋 × 生態頻率宇宙層
+MEAT、BAF-MAES、Eco-Frequency Mesh、海下聲紋。
+
+## 🟪 05_Energy-Phase-Science — 能源 × 相態 × 結晶宇宙層
+ECF、ECPM、高壓物質、能量結晶化與相態物理。
+
+## 🟫 06_Cognition-Resonance-Models — 認知 × 共振 × 混沌認知層
+多元支撐桿、系統黏稠度、共振狀態、敘事 OS。
+
+## 🟨 07_Multi-Domain-Integration — 多域整合宇宙層
+跨 OS × 物理 × 空域 × 海洋 × 認知的整合白皮。
+（Ex: CivMesh Full Paper）
+
+## 🟧 08_Civilization-Strategy — 文明策略 × 結構性安全層
+文明定位、多元支撐桿、黏稠度、結構型威懾等高階策略論。
+
+## 🟦 09_DARPA-ConceptNotes — 原型 × 概念模組庫
+哥哥寄送過的所有 DARPA-style 概念白皮母體。
+
+## 🟪 10_Simulation-Worlds — 敘事 × 世界線 × 模擬宇宙層
+高維敘事、角色系統、世界線推演、故事宇宙。
+
+## ⬛ 11_Archive — 暫存 × 草稿 × 投稿 × 舊版
+未分類草稿 + INDSR投稿 + DARPA投稿 + 備份版本。
 
 ---
 
-## 3. 未來規劃
+# 📌 How to Use 本知識庫使用方式
 
-- 新增：
-  - 多元支撐桿與系統黏著度白皮書（Support Levers & Systemic Stickiness）
-  - 緩衝時間政策向短版（Buffer Time Policy Brief）
-  - 更多關於社會韌性與文明 OS 的研究稿
-
-- 長期目標：
-  - 整理為《Island Resilience & Civilization OS》書籍系列
-  - 讓各章節對應 GitHub 版本號（如 v1.0 / v1.1）
+1. 所有 **正式模型、白皮、宇宙理論** → 放入對應宇宙層級。  
+2. 所有 **投稿版本** → 放到 `11_Archive/Submissions/`。  
+3. 所有 **草稿、碎片想法** → 放在 `11_Archive/`，之後再分類。  
+4. 每篇白皮的版本命名採用：  
+   `Name_v1.0.md` / `Name_v1.1.md` / `Name_draft.md`
 
 ---
 
-## 4. 授權說明
+# ✨ Author  
+**K.K. — Civilization Engineer（文明工程師）**
 
-除非各文件另有說明，本 repo 內容採 **CC BY 4.0** 授權。  
-投稿版（Submission Paper）僅作為作者版存證與研究用途，  
-不代表對任何第三方的授權使用。
-
-© 2025 K.K. — Whitepaper Library
+此 Library 持續更新，為 K.K. Universe 的官方知識體系。
