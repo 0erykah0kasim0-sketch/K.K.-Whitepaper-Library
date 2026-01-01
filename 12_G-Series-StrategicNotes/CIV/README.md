@@ -1,6 +1,20 @@
-# CIV — G-Series Notes
+# CIV — 文明敘事 × 認知模型 G-Series Notes  
+G-Insight｜Narrative Civilization Analysis
 
-此資料夾收錄屬於 CIV 領域的 G1 系列戰略短評。
+本資料夾用於存放「文明敘事、認知層模型、世界觀解析」等 G-Series 短評。
 
-格式：BRF / ANA / Insight（v1.0）
-內容屬概念層、安全、不含敏感技術。
+---
+
+## 📄 Documents
+（尚無文件，可日後加入）
+
+---
+
+## 🔧 Naming Rules  
+CIV01 / CIV02 …  
+依照敘事文明主題遞增。
+
+---
+
+## 📌 Version Notes  
+此資料夾為未來文明敘事研究預留空間。
