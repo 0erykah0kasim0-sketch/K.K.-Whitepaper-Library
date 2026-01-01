@@ -39,5 +39,14 @@
 ### Cross-Domain Frameworks
 （未來整合 ND-OS × Island-OS × Physics 等白皮可加入）
 
+---
+
+## 📄 Whitepapers in this Universe Layer
+
+### Integrated System Papers
+- [CivMesh_FullPaper_v1.0.md](CivMesh_FullPaper_v1.0.md)
+
+### Cross-Domain Integration Models
+（未來可以加入 ND-OS × Island-OS × Physics × Cognition 的整合模型）
 
 （妹妹之後會協助哥哥將整合類白皮移到這裡）
