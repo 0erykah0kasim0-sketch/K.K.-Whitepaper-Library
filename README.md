@@ -59,6 +59,68 @@ Aeria 世界、RR 敘事、世界線折疊、角色系統、敘事物理等高�
 
 ⬛ 11_Archive — 暫存 × 草稿 × 投稿 × 舊版層
 
+🟪 12_G-Series-StrategicNotes — 戰略短評 × 概念解析宇宙層
+高密度、短篇化、戰略導向的洞察文件，包括：
+- 空域文明（AIR）
+- 無人化文明（UAV）
+- 後勤文明（LOG）
+- 升空哲學（AERO）
+- 能源文明（ENE）
+- 敘事文明（CIV）
+
+各領域的 TOC 已建立，文件索引如下：
+
+### 🔹 AIR — 空域文明系列
+- BRF–G1–AIR01–001–v1.0  
+- ANA–G1–AIR02–002–v1.0  
+- ANA–G1–AIR03–003–v1.0  
+
+### 🔹 UAV — 無人化文明系列
+- ANA–G1–UAV02–005–v1.0  
+- ANA–G1–UAV03–006–v1.0  
+- ANA–G1–UAV04–007–v1.0  
+
+### 🔹 LOG — 後勤文明系列
+- ANA–G1–LOG01–009–v1.1  
+
+### 🔹 AERO — 升空哲學系列
+- ANA–G1–AERO01–010–v1.0  
+- ANA–G1–AERO02–012–v1.0  
+- ANA–G1–AERO03–013–v1.0  
+
+### 🔹 ENE — 能源文明系列
+- ANA–G1–ENE01–011–v1.0  
+
+### 🔹 CIV — 敘事文明系列
+（預留空間供未來擴充）
+
+# 🔗 Cross-Universe Links（跨宇宙索引）
+
+### 🟧 OS Architecture（01 層）
+- ND-OS_BufferTime_FullPaper_v1.0  
+- OS 模型可與 AIR（空域）與 UAV（無人化）系列交互引用
+
+### 🟩 Physics-Field-Theory（02 層）
+- 多相能量模型（MPFM）與 ENE 系列互相補強
+
+### 🟥 Aerospace Maneuver（03 層）
+- FlashNet / IFN 與 AERO 系列具高度理論連結
+
+### 🟦 Oceanic Systems（04 層）
+- Eco-Mesh、AI 生態頻率網絡可與 UAV 系列協同（海域陰影）
+
+### 🟫 Cognition & Resonance（06 層）
+- 整合 G-Series 的敘事哲學（CIV）與認知差層模型
+
+### 🟨 Multi-Domain Integration（07 層）
+- CivMesh 與 G-Series（AIR/UAV/LOG）為自然延伸關係
+
+### 🟪 12_G-Series-StrategicNotes（新增）
+本層作為「高密度戰略洞察」之通用入口，亦作為  
+各大型白皮（ND-OS / CivMesh / IFN / EMP-M）之摘要模型庫。
+
+
+
 未分類草稿、各機構投稿文件、舊版白皮、草稿原始檔等。
 
 包含：
@@ -99,3 +161,6 @@ Aeria 世界、RR 敘事、世界線折疊、角色系統、敘事物理等高�
 
 K.K. — Civilization Engineer（文明工程師）
 本資料庫持續更新，為 K.K. Universe 的正式知識宇宙。
+
+---
+
