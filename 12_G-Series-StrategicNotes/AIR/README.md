@@ -1,4 +1,4 @@
-# <DOMAIN> — G-Series Notes
+# AIR — G-Series Notes
 
 此資料夾收錄屬於 AIR 領域的 G1 系列戰略短評。
 
